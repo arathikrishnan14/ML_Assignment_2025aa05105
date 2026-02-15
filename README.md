@@ -53,7 +53,7 @@ Each model is evaluated using the following metrics:
 | XGBoost             | Best overall performance with the highest AUC and MCC. |
 
 ## Deployment
-The application is deployed on Streamlit Community Cloud. Access the live app [here](#).
+The application is deployed on Streamlit Community Cloud. Access the live app [https://mlassignment2025aa05105-gwsyduvptkvvemqbxspunq.streamlit.app/](#).
 
 ## How to Run Locally
 1. Clone the repository.
